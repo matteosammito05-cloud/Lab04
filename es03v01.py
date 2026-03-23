@@ -56,3 +56,5 @@ def main():
 
     print(f"{player1.getNome()} {player1.getCognome()} gioca nella squadra {player1.getTeam().getNome()}")
     print(f"{player2.getNome()} {player2.getCognome()} gioca nella squadra {player2.getTeam().getNome()}")
+
+main()
